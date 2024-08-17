@@ -5735,6 +5735,19 @@
                     "existentialDeposit": "1",
                     "transfersEnabled": true
                 }
+            },
+            {
+                "assetId": 43,
+                "symbol": "B",
+                "precision": 12,
+                "type": "orml",
+                "icon": "https://raw.githubusercontent.com/novasamatech/nova-utils/master/icons/tokens/white/BASTI.svg",
+                "typeExtras": {
+                    "currencyIdScale": "0x64430f00",
+                    "currencyIdType": "u32",
+                    "existentialDeposit": "1",
+                    "transfersEnabled": true
+                }
             }
         ],
         "nodes": [
