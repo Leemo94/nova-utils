@@ -37,7 +37,7 @@
     "endDate": "2026-08-01"
   },
   {
-    "chainId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+    "chainId": "68d56f15f85d3136970ec16946040bc1752654e906147f7e43e9d539d7c3de2f",
     "severity": "info",
     "shortText": "Check Your Validators",
     "longText": "A new runtime upgrade has enforced new requirements for Validators. Some of your Validators may become chilled. It is recommended to review your Validator selection."
