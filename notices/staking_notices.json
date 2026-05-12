@@ -35,5 +35,11 @@
       "zh-Hans": "Manta Atlantic 的质押将于 2026 年 5 月 20 日停止产生奖励。平行链将于 2026 年 8 月 1 日下线。持有 MANTA 代币的用户应在此截止日期前解除质押并迁移资产，以免失去对资金的访问权限。请访问 Manta 项目的官方网站和社交媒体渠道以了解更多信息。"
     },
     "endDate": "2026-08-01"
+  },
+  {
+    "chainId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
+    "severity": "info",
+    "shortText": "Check Your Validators",
+    "longText": "A new runtime upgrade has enforced new requirements for Validators. Some of your Validators may become chilled. It is recommended to review your Validator selection."
   }
 ]
