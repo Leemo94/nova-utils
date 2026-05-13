@@ -39,7 +39,17 @@
   {
     "chainId": "68d56f15f85d3136970ec16946040bc1752654e906147f7e43e9d539d7c3de2f",
     "severity": "info",
-    "shortText": "Check Your Validators",
-    "longText": "A new runtime upgrade has enforced new requirements for Validators. Some of your Validators may become chilled. It is recommended to review your Validator selection."
+    "shortText": {
+      "en": "Check Your Validators",
+      "ru": "Проверьте своих валидаторов",
+      "es": "Revisa tus Validadores",
+      "fr": "Vérifiez vos Validateurs"
+    },
+    "longText": {
+      "en": "A new runtime upgrade has enforced new requirements for Validators. Some of your Validators may become chilled. It is recommended to review your Validator selection.",
+      "ru": "Новое обновление среды выполнения ввело новые требования к валидаторам. Некоторые из ваших валидаторов могут быть отключены. Рекомендуется пересмотреть выбор валидаторов.",
+      "es": "Una nueva actualización del runtime ha establecido nuevos requisitos para los Validadores. Algunos de tus Validadores pueden ser deshabilitados. Se recomienda revisar tu selección de Validadores.",
+      "fr": "Une nouvelle mise à jour du runtime a imposé de nouvelles exigences pour les Validateurs. Certains de vos Validateurs pourraient être désactivés. Il est recommandé de revoir votre sélection de Validateurs."
+    }
   }
 ]
